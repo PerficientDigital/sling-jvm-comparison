@@ -1,0 +1,9 @@
+analyse/data.csv
+node_modules/
+.vagrant/
+*.log
+mount/jdk-11.0.8_linux-x64_bin.deb
+mount/uber.zip
+mount/urls.txt
+mount/tests/
+.DS_Store
